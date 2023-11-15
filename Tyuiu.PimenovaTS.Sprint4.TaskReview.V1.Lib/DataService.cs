@@ -12,7 +12,6 @@ namespace Tyuiu.PimenovaTS.Sprint4.TaskReview.V1.Lib
         public int Calculate(int n, int m, string value)
         {
             int[,] zombi = new int[n, m];
-            int index = 0;
 
             for (int i = 0; i < n; i++)
             {

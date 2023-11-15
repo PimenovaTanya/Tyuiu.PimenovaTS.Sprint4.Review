@@ -22,9 +22,9 @@ namespace Tyuiu.PimenovaTS.Sprint4.TaskReview.V1
             Console.Title = "Спринт #4 | Выполнила: Пименова Т. С. | ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
+            Console.WriteLine("* Тема: SprintReview                                                      *");
             Console.WriteLine("* Задание #7                                                              *");
-            Console.WriteLine("* Вариант #13                                                             *");
+            Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнила: Пименова Т. С. | ИИПб-23-2                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
